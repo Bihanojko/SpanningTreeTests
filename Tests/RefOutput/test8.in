@@ -1,0 +1,16 @@
+A-B B-C B-D
+A-B B-C D-A
+A-B B-C D-C
+A-B B-D C-A
+A-B B-D D-C
+A-B C-A D-A
+A-B C-A D-C
+A-B D-A D-C
+B-C B-D C-A
+B-C B-D D-A
+B-C C-A D-A
+B-C C-A D-C
+B-C D-A D-C
+B-D C-A D-A
+B-D C-A D-C
+B-D D-A D-C
