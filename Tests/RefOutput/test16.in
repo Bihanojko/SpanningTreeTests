@@ -1,0 +1,9 @@
+A-B B-C C-D D-E E-F
+A-B B-C C-D D-E F-D
+A-B B-C C-D E-F F-D
+A-B C-A C-D D-E E-F
+A-B C-A C-D D-E F-D
+A-B C-A C-D E-F F-D
+B-C C-A C-D D-E E-F
+B-C C-A C-D D-E F-D
+B-C C-A C-D E-F F-D
